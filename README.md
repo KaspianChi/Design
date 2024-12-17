@@ -14,5 +14,5 @@
 
 ---
 
-### Тьаблица принятия решений.
+### Таблица принятия решений.
 [Ссылка на документ](https://docs.google.com/spreadsheets/d/1mAunNLTMOLwwOUd7_c8Fpv2u32REPTlioGOLbdHwQ6U/edit?usp=sharing)
